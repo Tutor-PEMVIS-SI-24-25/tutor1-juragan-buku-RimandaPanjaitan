@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="nama"/>
+        <attribute name="authors" value="ASUS"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-09-04 09:26:35 PM"/>
+        <attribute name="created" value="QVNVUztSSU1BTkRBLVBBTkpBSVQ7MjAyNC0wOS0wNDswODoxNToxOSBQTTsyNjc3"/>
+        <attribute name="edited" value="QVNVUztSSU1BTkRBLVBBTkpBSVQ7MjAyNC0wOS0wNDswOToyNjozNSBQTTszOzI3ODg="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="nama" type="String" array="False" size=""/>
+            <input variable="nama"/>
+            <output expression="nama" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
